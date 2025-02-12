@@ -15,7 +15,7 @@ Feel free to explore, learn, and collaborate. Let’s make the digital world a s
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
 </div>
 
-## Query Lanuages
+## Query Languages
 As a security professional, I rely on query languages like KQL and XQL daily to uncover threats and anomalies hidden in massive data streams. These tools make it easier to filter, correlate, and analyze security events, allowing me to spot potential attacks before they happen. What I love most is the ability to build custom queries on the fly, adapting to emerging threats in real time. It’s all about staying ahead—proactively hunting for indicators of compromise and ensuring customers are protected before an attacker even gets a chance. 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_KQL-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
