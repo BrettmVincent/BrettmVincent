@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#4AF626;">_></span> whoami</h1>
+<h1 align="center"><code style=color : #4AF626">_></code> whoami</h1>
 <p>Hi there! my name is <strong>Brett Vincent</strong>, a passionate cybersecurity specialist with nearly three years of hands-on experience in Managed Detection & Response. This GitHub page is my space to document and share the knowledge and insights I’ve gained throughout my journey in cybersecurity.
 
 Feel free to explore, learn, and collaborate. Let’s make the digital world a safer place together!</p><br>
