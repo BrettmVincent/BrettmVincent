@@ -1,10 +1,9 @@
 <h1 align="center"><code style=color : #4AF626">_></code> whoami</h1>
 <p>Hi there! my name is <strong>Brett Vincent</strong>, a passionate cybersecurity specialist with nearly three years of hands-on experience in Managed Detection & Response. This GitHub page is my space to document and share the knowledge and insights I’ve gained throughout my journey in cybersecurity.
 
-Feel free to explore, learn, and collaborate. Let’s make the digital world a safer place together!</p><br>
-![Image](https://www.avast.com/hs-fs/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png?width=1200&name=Hacker-Hero-a1.png)
+Feel free to explore, learn, and collaborate. Let’s make the digital world a safer place together!</p><br><br>
 
-## Techologies
+## Technologies
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
