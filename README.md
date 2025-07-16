@@ -1,37 +1,76 @@
-<h1 align="center"><code style=color : 4AF626">_></code> whoami</h1>
-<p>Hi there! my name is <strong>Brett Vincent</strong>, a passionate cybersecurity specialist with nearly three years of hands-on experience in Managed Detection & Response. This GitHub page is my space to document and share the knowledge and insights I’ve gained throughout my journey in cybersecurity.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=293890&center=true&vCenter=true&width=435&lines=%3E_whoami" alt="Typing SVG" />
+</h1>
 
-Feel free to explore, learn, and collaborate. Let’s make the digital world a safer place together!</p><br><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
 
-## Technologies
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-9cf21b?&style=for-the-badge&logo=Microsoft&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-9cf21b?&style=for-the-badge&logo=Azure&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-9cf21b?&style=for-the-badge&logo=Microsoft_Sentinel&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Darktrace-9cf21b?&style=for-the-badge&logo=Darktrace&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Palo_Alto-9cf21b?&style=for-the-badge&logo=Palo_Alto_Networks&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-9cf21b?&style=for-the-badge&logo=kalilinux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Zed_Attack_Proxy-9cf21b?&style=for-the-badge&logo=OWASP&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-9cf21b?&style=for-the-badge&logo=PortSwigger&logoColor=black" />
-</div>
+<h3 align="center" style="color:#293890;">Hey there, I'm <strong>Brett Vincent</strong></h3>
+<p align="center">
+  🛡️ Managed Detection & Response Specialist<br>
+  🚨 Signal Chaser | Terminal Dweller<br>
+  🌍 South Africa
+</p>
 
-## Query Languages
-As a security professional, I rely on query languages like KQL and XQL daily to uncover threats and anomalies hidden in massive data streams. These tools make it easier to filter, correlate, and analyze security events, allowing me to spot potential attacks before they happen. What I love most is the ability to build custom queries on the fly, adapting to emerging threats in real time. It’s all about staying ahead—proactively hunting for indicators of compromise and ensuring customers are protected before an attacker even gets a chance. 
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_KQL-9cf21b?&style=for-the-badge&logo=Microsoft&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Cortex_XQL-9cf21b?&style=for-the-badge&logo=Palo_Alto_Networks&logoColor=black" />
-</div>
+---
 
-## Certifications
-During my career, I have obtained several certifications belonging to the below vendors. <br> For more information, visit my LinkedIn profile. 
-<div>
-<img src="https://img.shields.io/badge/-CompTIA-9cf21b?&style=for-the-badge&logo=comptia&logoColor=black" />
-<img src="https://img.shields.io/badge/-TCM_Security-9cf21b?&style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/-Microsoft-9cf21b?&style=for-the-badge&logo=microsoft&logoColor=black" />
-<img src="https://img.shields.io/badge/-Palo_Alto_Networks-9cf21b?&style=for-the-badge&logo=palo-alto-networks&logoColor=black" />
-<img src="https://img.shields.io/badge/-Trend_Micro-9cf21b?&style=for-the-badge&logo=trend-micro&logoColor=black" />
-<img src="https://img.shields.io/badge/-Fortinet-9cf21b?&style=for-the-badge&logo=fortinet&logoColor=black" />
-</div>
+## 🔍 About Me
+I'm a cyber defender with **3 years** of frontline experience in **Managed Detection & Response**. My mission: to proactively hunt adversaries, stop threats cold, and share what I’ve learned with the wider community.  
 
-### Social Media
-<a href="https://www.linkedin.com/in/brettm-vincent"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+This GitHub repo is my digital bunker — filled with tools, queries, playbooks, and personal research.  
+👨‍💻 *Scroll down, learn something new, and let’s build a safer internet together.*
+
+---
+
+### ⚙️ Toolset & Tech I Trust
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Defender-293890?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-293890?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-293890?style=for-the-badge&logo=Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Darktrace-293890?style=for-the-badge&logo=Darktrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Palo_Alto-293890?style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-293890?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-293890?style=for-the-badge&logo=OWASP&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-293890?style=for-the-badge&logo=PortSwigger&logoColor=white" />
+</p>
+
+---
+
+### 🧑‍💻 Query Languages
+As a security professional, I rely on query languages like KQL and XQL daily to uncover threats and anomalies hidden in massive data streams. These tools make it easier to filter, correlate, and analyze security events, allowing me to spot potential attacks before they happen. What I love most is the ability to build custom queries on the fly, adapting to emerging threats in real time. It’s all about staying ahead—proactively hunting for indicators of compromise and ensuring customers are protected before an attacker even gets a chance.
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_KQL-293890?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cortex_XQL-293890?style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+</p>
+
+---
+
+### 📜 Certifications Unlocked
+During my career, I have obtained several certifications belonging to the below vendors.
+For more information, visit my LinkedIn profile.
+
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-293890?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCM_Security-293890?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Certified-293890?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Palo_Alto_Networks-293890?style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trend_Micro-293890?style=for-the-badge&logo=trend-micro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-293890?style=for-the-badge&logo=fortinet&logoColor=white" />
+</p>
+
+---
+
+### 🧭 Where to Find Me
+Let’s collaborate, share threat intel, or just talk shop:
+
+<p>
+  <a href="https://www.linkedin.com/in/brettm-vincent">
+    <img src="https://img.shields.io/badge/LinkedIn-293890?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://thecomputernoob.com/wp-content/uploads/2021/05/cybersecurity-professional.gif" width="500" />
+</p>
